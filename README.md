@@ -1,6 +1,10 @@
 # s3-bucket-version
 [![CircleCI](https://circleci.com/gh/cortezcristian/s3-bucket-version/tree/master.svg?style=svg)](https://circleci.com/gh/cortezcristian/s3-bucket-version/tree/master)
 
+**DEPRECATION NOTICE**
+**WARNING:** This project has been renamed to s3-bucket-toolkit. Install using `npm i --save s3-bucket-toolkit` instead.
+https://github.com/cortezcristian/s3-bucket-toolkit
+
 S3 Bucket Version made easy
 
 - Provide Promisified AWS API methods
